@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HiteshKishoreDas
-- 🌱 I’m currently an undergrad in Physics and working on Computational Astrophysics
+- 🌱 I’m currently an PhD student working on Computational Astrophysics
 
 <!---
 HiteshKishoreDas/HiteshKishoreDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
